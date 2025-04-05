@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/daa1810b-0f7c-43bf-9a18-900d3776eee1
+
 # Examples
 
 This reference application includes two different functionalities to showcase Seal's capabilities:
